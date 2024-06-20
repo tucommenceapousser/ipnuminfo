@@ -13,9 +13,9 @@
   <p>
 
   ```sh
-  git clone https://github.com/tucommenceapousser/IP-Tracker.git
+  git clone https://github.com/tucommenceapousser/ipnuminfo.git
 
-  cd IP-tracker
+  cd ipnuminfo
 
   pip3 install -r requirements.txt
 

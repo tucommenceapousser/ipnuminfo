@@ -22,6 +22,11 @@ Alternatively, you can click the button below to directly import and start worki
 
 [![Run on Replit](https://repl.it/badge/github/tucommenceapousser/ipnuminfo)](https://repl.it/github/tucommenceapousser/ipnuminfo)
 
+## Demo
+
+You can see a live demo of the project here:
+
+[![Demo on Replit](https://img.shields.io/badge/Demo-Replit-blue?style=for-the-badge&logo=replit)](https://replit.com/@trkn/ipnuminfo)
 <details>
   <summary><strong>Installation and Usage</strong></summary>
   <p>

@@ -1,0 +1,6 @@
+phonenumbers
+geocoder
+requests
+colorama
+questionary
+alive-progress

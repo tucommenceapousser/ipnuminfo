@@ -22,11 +22,6 @@ Alternatively, you can click the button below to directly import and start worki
 
 [![Run on Replit](https://repl.it/badge/github/tucommenceapousser/ipnuminfo)](https://repl.it/github/tucommenceapousser/ipnuminfo)
 
-## Demo
-
-You can see a live demo of the project here:
-
-[![Demo on Replit](https://img.shields.io/badge/Demo-Replit-blue?style=for-the-badge&logo=replit)](https://replit.com/@trkn/ipnuminfo)
 <details>
   <summary><strong>Installation and Usage</strong></summary>
   <p>
@@ -43,6 +38,20 @@ You can see a live demo of the project here:
 
   </p>
 </details>
+
+<details>
+  <summary><strong>Features</strong></summary>
+  <p>
+    This tool offers the following functionalities:
+    <ul>
+      <li>Geolocate a specific IP address using different methods.</li>
+      <li>Geolocate your own IP address automatically.</li>
+      <li>Geolocate multiple IP addresses from a file.</li>
+      <li>Retrieve detailed information about a phone number including validation, formatting, geolocation, and carrier.</li>
+    </ul>
+  </p>
+</details>
+
 <details>
   <summary><strong>Screenshots</strong></summary>
   <p align="center">

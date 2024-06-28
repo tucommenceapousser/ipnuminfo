@@ -63,6 +63,9 @@ Alternatively, you can click the button below to directly import and start worki
   <p align="center">
     <img src="Img/Screenshot_2024-06-20-20-37-50-746_com.android.chrome-edit.jpg" width="510px">
   </p>
+  <p align="center">
+    <img src="Img/Screenshot_2024-06-28-04-12-24-218_com.android.chrome-edit.jpg" width="510px">
+  </p>
 </details>
 
 <details>

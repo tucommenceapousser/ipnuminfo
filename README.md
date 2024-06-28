@@ -46,7 +46,7 @@ You can see a live demo of the project here:
 <details>
   <summary><strong>Screenshots</strong></summary>
   <p align="center">
-    <img src="Img/Screenshot_2024-06-20-20-43-22-954_com.android.chrome-edit.jpg" width="510px">
+    <img src="Img/Screenshot_2024-06-28-12-10-49-628_com.android.chrome-edit.jpg" width="510px">
   </p>
   <p align="center">
     <img src="Img/Screenshot_2024-06-20-20-39-19-784_com.android.chrome-edit.jpg">
